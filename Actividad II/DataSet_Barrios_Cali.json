@@ -8,5 +8,8 @@
     "santo domingo": {"dorado":4, "Los guaduales":10},
     "republica": {"La hacienda":5, "el diamante":6},
     "La hacienda": {"los alamos":7, "republica":6},
-    "Los guaduales": {"santo domingo":6, "la base":8}
+    "Los guaduales": {"santo domingo":6, "la base":8},
+    "vallado": {"san judas":3, "guabal":4},
+    "ciudad cordoba": {"primero de mayo":7, "vallado":4},
+    "La flora": {"dorado":6, "ciudad cordoba":4}
 }
