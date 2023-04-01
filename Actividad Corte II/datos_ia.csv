@@ -1,0 +1,15 @@
+﻿Id;barrio;barrio cercano;cuadra;barrio cercano II;cuadra II
+1;panamericano;san judas;6;guabal;4
+2;guabal;dorado;5;panamericano;7
+3;san judas;primero de mayo;5;panamericano;5
+4;primero de mayo;san judas;3;el diamante;5
+5;dorado;guabal;6;santo domingo;7
+6;el diamante;republica;9;primero de mayo;8
+7;santo domingo;dorado;4;Los guaduales;10
+8;republica;La hacienda;5;el diamante;6
+9;La hacienda;los alamos;7;republica;6
+10;Los guaduales;santo domingo;6;la base;8
+11;vallado;san judas;3;guabal;4
+12;ciudad cordoba;primero de mayo;7;vallado;4
+13;La flora;dorado;6;ciudad cordoba;4
+14;colon;panamericano;2;vallado;4
